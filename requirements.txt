@@ -1,0 +1,9 @@
+# No external dependencies required for basic functionality
+# All functionality is implemented using Python standard library
+
+# Optional dependencies for enhanced features (uncomment if needed):
+# colorama>=0.4.4      # For colored terminal output
+# rich>=12.0.0         # For rich text formatting
+# click>=8.0.0         # For enhanced CLI interface
+# nltk>=3.7            # For advanced text analysis
+# textstat>=0.7.0      # For readability metrics

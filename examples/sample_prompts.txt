@@ -1,0 +1,17 @@
+Write a story about a robot.
+
+Explain machine learning.
+
+Help me with my project.
+
+Create a marketing plan for my startup.
+
+Tell me about climate change.
+
+Write code to sort a list in Python.
+
+Please write a comprehensive 500-word story about a robot who discovers emotions for the first time. The story should be written for a young adult audience, include dialogue, and follow a clear three-act structure with an introduction, conflict, and resolution. Focus on the robot's internal journey and use descriptive language to create an engaging narrative.
+
+As an expert data scientist, please explain machine learning concepts to a business executive audience. Your explanation should cover: 1) What machine learning is in simple terms, 2) Three main types of machine learning with real-world examples, 3) Key benefits and limitations, 4) How it differs from traditional programming. Keep the explanation concise (300-400 words) and avoid technical jargon. Include practical examples from business contexts like marketing, finance, or operations.
+
+I'm working on a web development project for a small business website and need guidance on the following specific areas: 1) Choosing between React and Vue.js for the frontend, 2) Selecting a suitable backend framework (considering Node.js, Django, or Rails), 3) Database recommendations for storing customer information and product catalog, 4) Best practices for implementing user authentication and security. The website will have approximately 1000 products and expect 500 daily users. Please provide detailed recommendations with pros and cons for each option.

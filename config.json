@@ -1,0 +1,23 @@
+{
+  "output_format": "text",
+  "save_history": true,
+  "verbose": false,
+  "scoring_weights": {
+    "clarity": 1.0,
+    "specificity": 1.0,
+    "structure": 1.0,
+    "context": 1.0,
+    "creativity": 1.0
+  },
+  "thresholds": {
+    "excellent": 8.0,
+    "good": 6.0,
+    "needs_improvement": 4.0
+  },
+  "optimization_settings": {
+    "max_optimizations_per_category": 3,
+    "preserve_original_intent": true,
+    "add_structure_headers": true,
+    "enhance_creativity": true
+  }
+}
